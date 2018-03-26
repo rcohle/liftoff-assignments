@@ -12,11 +12,19 @@ I will be building a website to serve my current dogwalking and dogsitting clien
 More advanced features I'd like to include are a billing/payment setup that can accept credit cards, Paypal, Google Payments, etc., and a service map utilizing google maps. I'd also like to implement a calendar that automatically updates based on information I put into a database. 
 
 ### Features
-Login page for clients
-Client Page with walk history, pictures, 
+Login and authentication for clients (customers).
+Client Page with walk history, pictures, schedule, payments due, etc.
+FAQ page including service area, contact information, email link
+Testimonials/Ratings page with posting access for registered clients only.
+Homepage will have a rotating picture of happy dogs I've walked!
 
 ### Technologies
-Include Technologies here
+MySQL for storing client login info, appointment details, etc.
+Dropbox or other picture hosting device for pictures
+Google Maps API for service area
+Javascript or Python+Flask+Jinja
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'll need to learn the Google Maps API and make it interact smoothly with my site.
+I'll need to figure out how to make a ratings system.
+
