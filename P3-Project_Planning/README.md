@@ -1,17 +1,12 @@
 # Project Planning
-For this assignment, you'll create some initial plans for your project.
-
-## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
-
-## Submission Instructions
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+- [Index/Home Page](https://github.com/rcohle/liftoff-assignments/blob/master/P3-Project_Planning/IMG_20180403_201904.jpg)
+- [Client Page](https://github.com/rcohle/liftoff-assignments/blob/master/P3-Project_Planning/IMG_20180403_201918.jpg)
+- [Pet Sitting Availability Page](https://github.com/rcohle/liftoff-assignments/blob/master/P3-Project_Planning/IMG_20180403_201929.jpg)
+- [Pet Walking Availability Page](https://github.com/rcohle/liftoff-assignments/blob/master/P3-Project_Planning/IMG_20180403_201940.jpg)
 
 ### Project Tracker
 
 https://www.pivotaltracker.com/n/projects/2158908
-
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
